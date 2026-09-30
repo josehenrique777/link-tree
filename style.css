@@ -10,3 +10,8 @@ h2{
 figcaption{
     color: white;
 }
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 75px;
+}
