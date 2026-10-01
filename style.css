@@ -1,5 +1,6 @@
 body{
     background-color: red;
+    text-align: center;
 }
 h1{
     color: white;
@@ -14,4 +15,23 @@ img {
     width: 250px;
     height: 250px;
     border-radius: 75px;
+}
+button {
+    border-radius: 75px;
+    color: white;
+    background-color: green;
+    width: 170px;
+    height: 50px;
+   
+}
+a {
+  background-color: white;
+  font-size: 20px;
+  border-radius: 75px;
+  padding: 10px;
+  display: block;
+  text-align: center;
+  margin: 10px auto;
+  color: slateblue;  
+  width: 150px;
 }
